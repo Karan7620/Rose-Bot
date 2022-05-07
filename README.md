@@ -17,10 +17,10 @@ Kochu and I are moderating a [support group](https://t.me/english_learning_group
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/Mo_Tech_YT) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/living_inspired) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/jithumon)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/King_kongbee)! (Keep all support questions in the support chat, where more people can help you.)
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Karan7620/Rose-Bot)<br>
